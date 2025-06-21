@@ -11,7 +11,6 @@
 </p>
 
 
-- As a software developer, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 

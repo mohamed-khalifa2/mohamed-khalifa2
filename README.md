@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Mahmoud Khalifa
+# Hi, I'm Mohamed Khalifa
 
 Frontend-focused Full Stack Developer shipping production e-commerce and admin applications using Angular, TypeScript, and Next.js. Skilled in JWT authentication, Reactive Forms, RxJS, and Firebase (Firestore, Auth, Storage), with experience integrating payments and deploying applications to production.
 
